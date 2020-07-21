@@ -40,7 +40,7 @@ We can see rmse scores for linear regression model and non-linear xgboost models
 | XGBoost           | 4          | 0.0137 |
 | Linear Regression | 4          | 0.0140 |
 
-Evaluation results on the absolute price value prediction
+Evaluation results of the gold price value prediction on the test set are as follows:
 
 | Model             | Days ahead | RMSE  |
 | ----------------- | ---------- | ----- |
