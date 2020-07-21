@@ -16,6 +16,8 @@ pip install -r requirements.txt
 
 - **gold_price_inference.ipynb**: This notebook loads the saved model from the gold_price_modeling notebook and performs forecasting.
 
+- **gold_price_arima.ipynb**: Exploratory notebook containing ARIMA forecasting model using gold price timeseries data.
+
 - **helper.py**: This is a helper module containing logics related to data extraction, features engineering, plotting, etc.
 
 - **model/**: binary model files and feature list required for modeling are stored in this directory.
