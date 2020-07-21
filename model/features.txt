@@ -3,12 +3,11 @@ Gold_t-7
 Gold_t-14
 10 Yr US T-Note futures_t-30
 Copper_t-2
-Euronext100_t-2
-Euronext100_t-3
+Euronext100_t-1
 Volatility Index_t-21
-2 Yr US T-Note Futures_t-1
+2 Yr US T-Note Futures_t-2
 MSCI EM ETF_t-2
-Silver_rocr_5
-10 Yr US T-Note futures_rocr_3
-10 Yr US T-Note futures_rocr_5
-Euronext100_rocr_14
+MSCI EM ETF_t-3
+MSCI EM ETF_t-30
+Volatility Index_rocr_2
+Volatility Index_rocr_14
