@@ -5,7 +5,7 @@ import numpy as np
 
 
 def extract_data(start_date, end_date, tickers):
-    values = pd.DataFrame({'date': pd.date_range(start=start_date, end=end_date)})
+    values = pd.DataFrame({'date': pd.date_range(start=start_date, end=end_date)}).iloc[:-1]
     values['date'] = pd.to_datetime(values['date'])
 
     for ticker in tickers:
