@@ -1,4 +1,4 @@
-# gold-forecast
+# gold-price-forecast
 
 The goal of this project is to train a model to forecast price of gold on the market for arbitrary days ahead. In this project we have set n=4 to do 4 days ahead forecasting.
 
